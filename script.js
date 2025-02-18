@@ -235,7 +235,10 @@ const images = [
   './img/pw1.jpg',
   './img/pw3.jpg',
   './img/pw6.jpg',
-
+  './img/pw8.jpg',
+  './img/pw7.jpg',
+  './img/pw9.jpg',
+  './img/pw10.jpg',
 ];
 
 let currentIndex = 0;
